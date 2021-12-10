@@ -1,0 +1,230 @@
+{
+  "Account": {
+    "Auth Key": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI1IiwianRpIjoiMjQ5ZGYwMzliZGY4NDZhNjlkZjAyZjI2OWY3Yjk2ZDc1YjRlOTJkMTY3YmY4MmI0ZjQ1NDE1ZTJkZDMyNGNiNmY4MTAzYmFkYzBhN2QxZmMiLCJpYXQiOjE2MzY0NTcwOTUsIm5iZiI6MTYzNjQ1NzA5NSwiZXhwIjoxNjY3OTkzMDk1LCJzdWIiOiI0MDA4NDUiLCJzY29wZXMiOltdfQ.VgBOPeSLwCwMJi9bYnLq-C0hNNI4Z0AGdMSi96bPiDd7aOXM2tuoHJBArOSyWv0Bt5TRvkYA4MuEHkdps6375EZnYPRpsYoz9iO29b4hXZzL7rQiHSBm-0zhWvdhEk1ZLvbeahIdnVJlyn3XDEXU9Zebj8_e69Q9O_DYBdkdTyxO26GFpleqwn6abdclzKusdFrz-AdKY2vpJNUu1uvGcrdf1f6-kNndTpGWgkqsNle8xyTNmC8ClDWZhUR9YBwY-MP0-cRdx05ZyX6Mu7-4uXPpv3pA15sxuSuf1v4Oz_wX1py-T6QKiLwHv5BLlnotVer1TRcpVuNpEZF7i46f0dEx3viv6a2PoYAVdEE3swqYkiPSCjYg9kTRYQI9Af7QZnDBu7asUM6wvDT6k5lYtnmRMdQ0KqF2ecDGhQOdzyQ2uA8J9BiUtRt29It3eBDO-Y_Q3z9os4ccC5F3wcfT0rwLHZYMhBSZ9WkUpjZV7jnehGVoQfLqfBs8ZNTjxFaHQfdJLcPrzrZNkMOfWB8i34TKxn8UZDgd55ouKxF0kXOCVwsU_jmjukGgj15hBNwnrQ46OQV7eCTlyDttANdgTEPuzd7icXdnvS3aUbV6eNCIyPokjAbzlM4nLEi4ZGNosvnQroqUse0A0Ou4MhA4wCCdaB53DJvQgYHG9xMJ4w4",
+    "Currency": "trx",
+    "Auto Proxy": "OFF"
+  },
+  "Target Profit": "10000",
+  "Target Win": "10000",
+  "Lose Target": "0",
+  "Reset Seed": "1000",
+  "Show Price": "OFF",
+  "Play Game": "limbo",
+  "Betset": [
+    {
+      "Name Bet Set": "00 - @riosuyanto",
+      "Base Bet": "0.000001",
+      "Toggle HiLowSwitch": "OFF",
+      "HiLowSwitch": "29",
+      "Chance": "49",
+      "Random Chance": {
+        "Toggle": "ON",
+        "Min": "10",
+        "Max": "10"
+      },
+      "Bet": {
+        "Bet": "Low",
+        "Hi / Low": {
+          "Toggle": "OFF",
+          "If Lose": "1",
+          "If Win": "1"
+        }
+      },
+      "Mode1": {
+        "Toggle": "OFF",
+        "Lose": "1.12",
+        "Win": "1",
+        "Profit": "0.00000001"
+      },
+      "Mode2": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": "100",
+        "Multipler": "1.035"
+      },
+      "Mode3": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Start Strike If Win": "1",
+        "Limit Strike If Win": "6",
+        "Start Multi": "2",
+        "Limit Multi": "1",
+        "Multi Chance1": {
+          "Toggle": "ON",
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Chance2": {
+          "Toggle": "ON",
+          "LCMin": "35",
+          "LCMax": "49"
+        }
+      },
+      "Mode5": {
+        "Toggle": "OFF",
+        "Profit": "0.00000001",
+        "MaxLS": "OFF",
+        "Multi1": "1.1",
+        "Multi2": "2",
+        "Multi Chance1": {
+          "Toggle": "ON",
+          "LCMin": "5",
+          "LCMax": "8"
+        },
+        "Multi Chance2": {
+          "Toggle": "ON",
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "SwitchChance": "20"
+      },
+      "Mode6": {
+        "Toggle": "OFF",
+        "Profit": "0.00000001",
+        "Multipler": "1.12",
+        "Preroll": "10",
+        "Limitlose": "50",
+        "Multi Chance1": {
+          "LCMin": "45",
+          "LCMax": "49"
+        },
+        "Multi Chance2": {
+          "LCMin": "10",
+          "LCMax": "10"
+        }
+      },
+      "Mode7": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Posbet": "0.0000001",
+        "Preroll": "10",
+        "Posroll": "50",
+        "Multipler": "1.12"
+      },
+      "Mode8": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Preroll": [
+          "2",
+          "6",
+          "3",
+          "4",
+          "6",
+          "8",
+          "3",
+          "15",
+          "25"
+        ],
+        "TrigerCount": "10",
+        "CM1": [
+          "49",
+          "2.1"
+        ],
+        "CM2": [
+          "15",
+          "1.23"
+        ],
+        "CM3": [
+          "40",
+          "1.85"
+        ],
+        "CM4": [
+          "12",
+          "1.18"
+        ],
+        "CM5": [
+          "30",
+          "1.52"
+        ],
+        "CM6": [
+          "9",
+          "1.12"
+        ],
+        "CM7": [
+          "28",
+          "1.42"
+        ],
+        "CM8": [
+          "7",
+          "1.09"
+        ],
+        "CM9": [
+          "5",
+          "1.066"
+        ]
+      },
+      "Mode9": {
+        "Toggle": "OFF",
+        "Prebet": "0.00000001",
+        "Profit": "0.00000001",
+        "Gateway": "350",
+        "Passrol": "750",
+        "Limitlose": "100",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "0.07",
+          "LCMax": "0.1"
+        }
+      },
+      "Mode10": {
+        "Toggle": "OFF",
+        "Profit": "0.00000001",
+        "Prebet": "0.00000001",
+        "GateOne": "3",
+        "GateTwo": "6",
+        "Pmin": "10",
+        "Pmax": "15",
+        "Limitlose": "100",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "6",
+          "LCMax": "10"
+        }
+      },
+      "Mode11": {
+        "Toggle": "OFF",
+        "Profit": "0.00000001",
+        "Prebet": "0.00000001",
+        "GateWay": "35",
+        "Preroll": "100",
+        "MaxLS": "OFF",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "1",
+          "LCMax": "1"
+        }
+      },
+      "Mode12": {
+        "Toggle": "ON",
+        "Prebet": "0.00000001",
+        "Profit": "0.00000001",
+        "Gateway": "4",
+        "Passrol": "4",
+        "Multipler": "1.42",
+        "Limitlose": "100",
+        "Multi Win": {
+          "LCMin": "49",
+          "LCMax": "49"
+        },
+        "Multi Lose": {
+          "LCMin": "14",
+          "LCMax": "25"
+        }
+      },
+      "Fibonachi": {
+        "Toggle": "OFF"
+      },
+      "If Win": "1.8",
+      "If Lose": "1.4"
+    }
+  ]
+}
